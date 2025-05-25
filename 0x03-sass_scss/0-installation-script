@@ -1,4 +1,4 @@
 Steps to install SASS
 
 1.Install node
-2.npm install sass -v 3.7.4
+2.npm install sass -v 3.7.40-debug_log.scss
